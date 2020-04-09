@@ -1,0 +1,41 @@
+.navigation {
+    display: flex;
+    align-content: center;
+    border-width: 5px;
+    border-style: double;
+    justify-content: space-between;
+    background-color:lightgreen;
+    max-height: 75px;
+    max-width: 600px;
+    flex-direction: row;
+    padding-left: 4px;
+    padding-right: 4px;
+    margin-left: 25%;
+}
+
+.deck2 {
+    float: right;
+}
+body {
+    background-color: lightblue;
+}
+
+}
+nav {
+    align-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+aside {
+    display: grid;
+    grid-template-rows: 225px 225px 225px;
+    grid-template-columns: 325px 325px 3025px;
+
+}
